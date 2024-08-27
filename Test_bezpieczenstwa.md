@@ -15,6 +15,8 @@ Test na stronie https://www.whynopadlock.com/ dla podanego adresu URL został za
 
 ![image](https://github.com/user-attachments/assets/90152b65-4c05-454b-91e7-4841cb0e9d70)
 
+---
+
 2. Walidacja i Sanityzacja
 
 __Walidacja__
@@ -24,6 +26,8 @@ W polach formularza nie ma walidacji jeśli chodzi o rodzaj znaków. Pola formul
 __Sanityzacja__
 
 Znaki specjalne są wyświetlane poprawnie, dane w formacie HTML, JS,  JSON, XML są wyświetlane jako teskt, białe znaki są usuwane.
+
+---
 
 3. Bezpieczeństwo informacji w panelu administracyjnym
 
