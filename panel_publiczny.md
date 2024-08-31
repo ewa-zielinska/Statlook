@@ -1,3 +1,11 @@
+__ŚRODOWISKO TESTOWE__
+
+Nazwa przeglądarki: Google Chrome
+
+Wersja przeglądarki: 128.0.6613.113
+
+---
+
 1. Po wprowadzeniu poprawnych danych do Formularza zgłaszania naruszeń i kliknięciu przycisku 'Powrót' lub w logo 'Statlook' - bez żadnej informacji użytkownik zostaje przekierowany na stronę główną, a wprowadzone dane zostają usunięte.
 
    __Przypadek testowy:__
@@ -39,6 +47,7 @@
    __Przypadek testowy:__
    - Wejdź na stronę [https://demo.statlook.com/whistleblower/issue/new](https://demo.statlook.com/whistleblower/issue/new)
    - W prawym górnym rogu na głównej belce zmień opcję widoku na 'LARGE'
+     
    ![image](https://github.com/user-attachments/assets/5b2094aa-055c-4804-a837-27365c7d28d5)
    - Rozwiń listę obszarów
 
